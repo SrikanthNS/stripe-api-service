@@ -1,0 +1,17 @@
+{
+  "name": "try-stripe",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Stand-alone repo to execute stripe apis",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^9.0.1",
+    "esm": "^3.2.25",
+    "stripe": "^8.148.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r esm index.js"
+  }
+}
