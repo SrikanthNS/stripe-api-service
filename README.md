@@ -1,11 +1,11 @@
 # stripe-api-service
 To run stripe apis standalone
 
-> Install
+##### Install
 
-yarn install
+> yarn install
 
 
-> Start application
+##### Start application
 
-yarn start
+> yarn start
